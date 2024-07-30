@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@layer base {
+  body {
+    @apply bg-[#8ecae6];
+    @apply bg-no-repeat;
+    @apply h-full;
+    @apply bg-fixed;
+
+  }
+}
